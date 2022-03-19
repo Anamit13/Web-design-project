@@ -33,3 +33,6 @@ Javascript can be used to make different function for different features and can
 
 ## Flow
 
+![flow](https://user-images.githubusercontent.com/70309589/159108074-ed5d1dbe-4886-47f7-8da0-b14360d2a8ad.PNG)
+
+
